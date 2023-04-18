@@ -1,6 +1,6 @@
 {
   "dependencies": {
-    "moment": "^2.29.2",
+    "moment": "^2.29.4",
     "mongodb": "^3.6.2",
     "node-fetch": "^2.6.7"
   }
